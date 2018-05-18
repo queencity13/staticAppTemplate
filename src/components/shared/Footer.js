@@ -17,7 +17,7 @@ const Footer = () => {
             </li>
           </ul>
         </nav>
-        <p className="white text-center font-weight-light">Copyright 2018</p>
+        <p className="white text-center font-weight-light">Copyright {currentYear}</p>
       </div>
     </footer>
   );

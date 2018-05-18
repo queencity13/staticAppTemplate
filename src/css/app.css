@@ -7,7 +7,7 @@ html {
 }
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 60px;
+  margin-bottom: 220px;
 }
 .footer {
   position: absolute;
@@ -16,7 +16,7 @@ body {
   /* Set the fixed height of the footer here */
   height: 202px;
   line-height: 60px; /* Vertically center the text there */
-  background-color: #505060;
+  background-color: #fafafa;
   color: #fff;
 }
 
